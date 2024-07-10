@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\bart\BART(Test)\obj\Debug\net5.0\BART(Test).csproj.AssemblyReference.cache
+C:\Users\1\Desktop\bart\BART(Test)\obj\Debug\net5.0\BART(Test).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\bart\BART(Test)\obj\Debug\net5.0\BART(Test).AssemblyInfoInputs.cache
+C:\Users\1\Desktop\bart\BART(Test)\obj\Debug\net5.0\BART(Test).AssemblyInfo.cs
+C:\Users\1\Desktop\bart\BART(Test)\obj\Debug\net5.0\BART(Test).csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\bart\BART(Test)\obj\Debug\net5.0\BART(Test).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Desktop\bart\BART(Test)\obj\Debug\net5.0\BART(Test).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\bart\BART(Test)\obj\Debug\net5.0\BART(Test).RazorAssemblyInfo.cache
+C:\Users\1\Desktop\bart\BART(Test)\obj\Debug\net5.0\BART(Test).RazorAssemblyInfo.cs
